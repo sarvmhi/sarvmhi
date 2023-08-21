@@ -2,7 +2,9 @@
 
 <h3> with an artistic soul and a tech-driven mind, using a palette of coding languages and an eye for design aesthetics to craft digital experiences that brings joy and peace to the lives. My goal is to go beyond the norm and bring a touch of ingenuity to every project I undertake.</h3>
 
-- 🔭 I’m currently working on **a 2D game based on neuroscience**
+- 👩🏻‍💻 I have exprience in game design and developement. my lates project is **a 2D game based on neuroscience** with collaboration of some psychology phd students.
+  
+- 🔭 I’m currently working on **a UI/UX project and research** With the guidance of one of my professors.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
