@@ -1,4 +1,4 @@
-<h3 align="center">bio</h3>
+<h3> with an artistic soul and a tech-driven mind, using a palette of coding languages and an eye for design aesthetics to craft digital experiences that brings joy and peace to the lives. My goal is to go beyond the norm and bring a touch of ingenuity to every project I undertake.</h3>
 
 - 🔭 I’m currently working on **a 2D game based on neuroscience**
 
