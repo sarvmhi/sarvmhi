@@ -1,6 +1,7 @@
 ![Artboard 1@3x](https://github.com/sarvmhi/sarvmhi/assets/72089732/8f23c227-7695-4f4f-90df-ddf1e741fdf1)
 
-<h3> with an artistic soul and a tech-driven mind, using a palette of coding languages and an eye for design aesthetics to craft digital experiences that brings joy and peace to the lives. My goal is to go beyond the norm and bring a touch of ingenuity to every project I undertake.</h3>
+<h3> with an artistic soul and a tech-driven mind. 
+My goal is to go beyond the norm and bring a touch of ingenuity to every project I undertake.</h3>
 
 
 - 🎓 studying CS in Shahid Beheshti University of Tehran.
