@@ -12,7 +12,7 @@ My goal is to go beyond the norm and bring a touch of ingenuity to every project
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sarvin-mohammadi-b55b57261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvin-mohammadi-b55b57261" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sarvmhi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarvin-mohammadi-b55b57261" height="30" width="40" /></a>
 </p>
 
 
