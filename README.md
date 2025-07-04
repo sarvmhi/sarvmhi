@@ -9,7 +9,7 @@ My goal is to go beyond the norm and bring a touch of ingenuity to every project
 
 - 👩🏻‍💻 I have experience in game development and design. My latest project is a **2D game based on neuroscience**, created in collaboration with PhD students in psychology.
 
-- 🔭 I’m currently working on a Health Informatica research and design project, under the guidance of one of my professors.
+- 🔭 I’m currently working on a **Health Informatics research** and design project, under the guidance of one of my professors.
 
 - Actively seeking positions in **Human-Computer Interaction, Game Design, and Health Informatics**.
 
